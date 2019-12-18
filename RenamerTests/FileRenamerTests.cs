@@ -3,7 +3,7 @@ using Xunit;
 
 namespace RenamerTests
 {
-    public class FileBatchRenamerTests
+    public class FileRenamerTests
     {
         [Fact]
         public void Test1()
